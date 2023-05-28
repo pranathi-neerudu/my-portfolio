@@ -1,9 +1,11 @@
 import React from "react";
-import About from "./components/about";
-//import Contact from "./components/contact";
+import About from "./components/About";
 import Navbar from "./components/navbar";
-import Projects from "./components/projects";
-import Skills from "./components/skills";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Contact from "./components/contact";
+import Experience from "./components/Experience";
+import Footer from "./components/Footer";
 
 export default function App() {
 
@@ -13,7 +15,9 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
-      {/* <Contact /> */}
+      <Experience />
+      <Contact />
+      <Footer />
     </main>
     );
 }
