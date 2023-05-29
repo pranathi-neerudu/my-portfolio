@@ -2,7 +2,7 @@ import React from "react";
 import About1 from "./components/About1";
 import Navbar from "./components/navbar";
 import Projects1 from "./components/Projects1";
-import Skills from "./components/Skills";
+import Skills1 from "./components/Skills";
 import Contact from "./components/contact";
 import Experience from "./components/Experience";
 import Footer from "./components/Footer";
