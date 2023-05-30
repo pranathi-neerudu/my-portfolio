@@ -44,14 +44,14 @@ export const testimonials = [
 export const education = [
   {
     id:1,
-    quote: "Utilized Angular to develop efficient and reusable user interfaces (UI) for the CNS department at IU • Conducted thorough unit testing using Storybook, leading to a 40% improvement in interface performance and a 15% decrease in bug occurrence. • Tech Used: Angular, HTML, SCSS, Storybook, Figma.",
+    quote: "Relevant Coursework:•Software Engineering •Applied Algorithms •Computer Networks •Data Mining •Database Design •Applied Machine Learning •Engineering Cloud Computing •Human Computer Interaction •Systems Protocol and Information Assurance  ",
     title: "Master's - Computer Science",
     company: "Indiana University - Bloomington",
     year: "Jan 2022 - Dec 2023"
   },
   {
     id:2,
-    quote: "• Contributed to the development of various full-stack web applications and created User Interfaces (UI) that fulfilled specific front-end requirements and integrated with back-end services to manage data asynchronously. • Constructed and executed comprehensive testing plans for cloud-based security solutions, resulting in a 60% reduction in bugs identified during production. • Optimized application performance by implementing agile development methodologies, resulting in a 40% improvement in overall system response time. Collaborated with clients to troubleshoot technical issues during deployment and production. Achieved a 55% increase in code efficiency. • Tech Used: HTML, XML, CSS, JavaScript, Java, Angular.",
+    quote: "Relevant Coursework: •Data Structures •Java •C •C++ •Artificial Intelligence •DBMS •Computer Graphics •Advanced Databases",
     title: "Bachelor's - Computer Science",
     company: "Osmania University - Hyderabad,India",
     year: "Aug 2016 - Oct 2020"
