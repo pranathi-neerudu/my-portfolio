@@ -3,9 +3,17 @@ export const projects = [
     title: "AstroWhirled",
     subtitle: "Angular| Firebase",
     description:
-      "Designed and implemented an end-to-end website for interplanetary travel reservations. • Developed interfaces to facilitate the users to search and filter destinations, reserve tickets, and make payments. • Provided various views and view-specific functionalities like manager view, end user view, and admin view. • Implemented proper routing techniques and route guards for a simplified user experience. Integrated google maps to showcroutes and locations. • Tech Used: Angular, Angular Material, Firebase, Google Maps API, MongoDB.",
-    image: "./project1.png",
+      "Designed and implemented an end-to-end website for interplanetary travel reservations. • Developed interfaces to facilitate the users to search and filter destinations, reserve tickets, and make payments. • Provided various views and view-specific functionalities like manager view, end user view, and admin view. • Implemented proper routing techniques and route guards for a simplified user experience. Integrated google maps to show routes and locations. • Tech Used: Angular, Angular Material, Firebase, Google Maps API, MongoDB.",
+    image: "./project4.png",
     link: "https://astro-whirled.web.app/",
+  },
+  {
+    title: "Online Teaching Website",
+    subtitle: "Moodle",
+    description:
+      "Implemented and customized Moodle site for online teaching, incorporating interactive features like forums, quizzes, and assignments. • Managed course content organization, user roles, and permissions for effective student progress monitoring. • Provided technical support for a secure and engaging online learning environment.",
+    image: "./project3.png",
+    link: "",
   },
   {
     title: "Home Credit Default Risk",
@@ -14,7 +22,7 @@ export const projects = [
       "Analyzed a database of 10 tables to predict loan repayment ability in the Kaggle challenge. • Implemented feature selection techniques such as correlation analysis, statistical tests, and model-based feature importance. •Worked with various Machine Learning Algorithms and cross-validation techniques to estimate the performance of different models and tuned hyperparameters to optimize their performance. • Developed and trained neural networks employing diverse algorithms, resulting in a significant improvement in the Area Under the Curve (AUC) score for loan default prediction. • Tech Used: Python, Docker, PyTorch, NumPy, pandas, sklearn.",
     image: "./project2.png",
     link: "https://www.kaggle.com/competitions/home-credit-default-risk",
-  },
+  }
 ];
 
 export const testimonials = [
